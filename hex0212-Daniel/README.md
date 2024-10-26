@@ -1,0 +1,14 @@
+# HEX 0212 – ELDORADO, A CIDADE DE OURO – Daniel da Rosa
+
+## Descrição Geral
+Em meio a brumas tidas como intransponíveis repousa a lendária Eldorado, a Cidade de Ouro. Construída por povos antigos que um dia habitaram o continente, Eldorado era uma cidade-monumento, um presente para os seus deuses. Quando estavam para ser extintos, estes povos se abrigaram na ilha para viver com suas divindades e por séculos puderam desfrutar de sua companhia em uma cidade dourada, ora competindo entre si na Arena Mítica, ora aproveitando os prazeres que a cidade oferecia, ora levando sua vida neste ambiente cheio de magia e segurança.
+Estes tempos, porém, se findaram. A tristeza destes Deuses Esquecidos retorceu sua obra e, de paraíso, fez-se um inferno agônico, um ciclo sem fim de dor, fúria e sofrimento. Os heróis decaídos agora lutam entre si, deformados e degenerados, liderando exércitos de Ancestrais em uma guerra sem fim. Afinal, não importa quanto matem, quantos morram: na Cidade de Ouro, a cada ciclo lunar, tudo, exceto visitantes, volta a ser como no ponto inicial desta guerra maldita.
+
+## Tesouros e lares
+A Ilha é formada por uma imensa cidade dourada, com enormes torres, pontes e escadarias. A cidade possui cinco Templos Absolutos, cada um dedicado a um dos Nove Deuses. Em cada um destes templos há um Campeão Supremo, um herói ou heroína que foi escolhido por um dos deuses por sua devoção e conexão para liderar os seus adoradores mais valorosos.
+Cada templo conta com 6d6 x 10 zumbis, 3d6 x 10 soldados, 2d6 x 5 veteranos defendendo-os, e 2d6 x 2 Carniçais, bem como 2d6 armadilhas e 1d6 perigos ambientais devido ao mal estado das construções. Os Campeões Supremos são o equivalente a guerreiros ou clérigos de 15º Nível.
+Para piorar, a Tristeza dos Deuses, como é chamada a chuva de lágrimas salgadas que constantemente cai dos céus, tende a estragar metais e armaduras não-mágicos – exceto aqueles de ouro, como os que recobrem a cidade.
+
+A Ilha é formada por uma imensa cidade dourada, com enormes torres, pontes e escadarias. A cidade possui cinco Templos Absolutos, cada um dedicado a um dos Nove Deuses. Em cada um destes templos há um Campeão Supremo, um herói ou heroína que foi escolhido por um dos deuses por sua devoção e conexão para liderar os seus adoradores mais valorosos.
+Cada templo conta com 6d6 x 10 zumbis, 3d6 x 10 soldados, 2d6 x 5 veteranos defendendo-os, e 2d6 x 2 Carniçais, bem como 2d6 armadilhas e 1d6 perigos ambientais devido ao mal estado das construções. Os Campeões Supremos são o equivalente a guerreiros ou clérigos de 15º Nível.
+Para piorar, a Tristeza dos Deuses, como é chamada a chuva de lágrimas salgadas que constantemente cai dos céus, tende a estragar metais e armaduras não-mágicos – exceto aqueles de ouro, como os que recobrem a cidade.centro da câmara são ilusões. O centro cobre um buraco com estacas (1d8 de dano).
